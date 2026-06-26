@@ -1,0 +1,15 @@
+"atlas_layer","node_level","abc_role","concept_nodes"
+"context_only","context","context",6
+"exploratory","specific","A",20
+"exploratory","specific","B",19
+"infection_context","specific","context",3
+"primary_atlas","specific","A",19
+"primary_atlas","specific","B",70
+"primary_atlas","specific","C",9
+"sensitivity","aggregate","B",7
+"sensitivity","modifier","modifier",2
+"sensitivity","specific","B",3
+"sensitivity","specific","C",8
+"treatment_context","aggregate","A",3
+"treatment_context","specific","A",23
+"treatment_context","specific","C",2

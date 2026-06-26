@@ -1,0 +1,37 @@
+"analysis","object_type","group","category","count"
+"publication-era temporal support","concept nodes","exploratory","both_eras",5
+"publication-era temporal support","concept nodes","exploratory","earlier_only",8
+"publication-era temporal support","concept nodes","exploratory","no_term_outcome_support",22
+"publication-era temporal support","concept nodes","exploratory","recent_only",4
+"publication-era temporal support","concept nodes","infection_context","both_eras",2
+"publication-era temporal support","concept nodes","infection_context","recent_only",1
+"publication-era temporal support","concept nodes","primary_atlas","both_eras",53
+"publication-era temporal support","concept nodes","primary_atlas","earlier_only",9
+"publication-era temporal support","concept nodes","primary_atlas","no_term_outcome_support",20
+"publication-era temporal support","concept nodes","primary_atlas","recent_only",16
+"publication-era temporal support","concept nodes","sensitivity","both_eras",12
+"publication-era temporal support","concept nodes","sensitivity","earlier_only",1
+"publication-era temporal support","concept nodes","sensitivity","recent_only",2
+"publication-era temporal support","concept nodes","treatment_context","both_eras",19
+"publication-era temporal support","concept nodes","treatment_context","earlier_only",2
+"publication-era temporal support","concept nodes","treatment_context","no_term_outcome_support",6
+"publication-era temporal support","concept nodes","treatment_context","recent_only",1
+"publication-era temporal support","network edges","all","both_eras",98
+"publication-era temporal support","network edges","all","earlier_only",12
+"publication-era temporal support","network edges","all","recent_only",13
+"publication-era temporal support","ABC triads","all","AB_and_BC_earlier",16
+"publication-era temporal support","ABC triads","all","AB_and_BC_in_both_eras",134
+"publication-era temporal support","ABC triads","all","AB_and_BC_recent",6
+"repeated-resampling stability","concept nodes","exploratory","moderate_any_support",2
+"repeated-resampling stability","concept nodes","exploratory","no_support_in_resamples",22
+"repeated-resampling stability","concept nodes","exploratory","stable_any_support",15
+"repeated-resampling stability","concept nodes","infection_context","stable_any_support",3
+"repeated-resampling stability","concept nodes","primary_atlas","moderate_any_support",5
+"repeated-resampling stability","concept nodes","primary_atlas","no_support_in_resamples",20
+"repeated-resampling stability","concept nodes","primary_atlas","stable_any_support",73
+"repeated-resampling stability","concept nodes","sensitivity","stable_any_support",15
+"repeated-resampling stability","concept nodes","treatment_context","no_support_in_resamples",6
+"repeated-resampling stability","concept nodes","treatment_context","stable_any_support",22
+"repeated-resampling stability","network edges","all","moderate 50-79%",5
+"repeated-resampling stability","network edges","all","stable >=80%",118
+"repeated-resampling stability","ABC triads","all","stable >=80%",146
